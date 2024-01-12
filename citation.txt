@@ -1,0 +1,6 @@
+@article{REPO025,
+    author = "Lin, Xian and Xiang, Yangyang and Zhang, Li and Yang, Xin and Yan, Zengqiang and Yu, Li",
+    journal = "arXiv preprint arXiv:2309.06824",
+    title = "{SAMUS: Adapting Segment Anything Model for Clinically-Friendly and Generalizable Ultrasound Image Segmentation}",
+    year = "2023"
+}
